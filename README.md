@@ -2,7 +2,7 @@
 
 I have spent the majority of my studying life in the Faculty of Law at Helsinki University. However, the call of natural science was far too culling and I have put my legal studies on hold and have moved to computer sciences.
 
-I started stuydying amongst the first students at [Hive Helsinki](https://www.hive.fi/en/) in 2019. The school follows the [42](https://en.wikipedia.org/wiki/42_(school)) education model.
+I started stuydying amongst the first students at [Hive Helsinki](https://www.hive.fi/en/) in 2019. The school follows the [42](https://en.wikipedia.org/wiki/42_(school)) educational model.
 
 ## Hive projects
 - [Lem-in](https://github.com/Durinder/lem_in)
