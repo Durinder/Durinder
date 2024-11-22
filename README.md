@@ -1,10 +1,8 @@
 ### Hello 👋
 
-I have spent the majority of my studying life in the Faculty of Law at Helsinki University. However, the call of natural science was far too culling and I have put my legal studies on hold and have moved to computer sciences.
-
 I have studied at [Hive Helsinki](https://www.hive.fi/en/).
 
-Currrently working as an Intern at Unity.
+Currrently working as a Software Engineer at Unity.
 
 ## Hive projects
 - [Corewar](https://github.com/rikikoo/corewar)
