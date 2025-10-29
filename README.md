@@ -2,7 +2,7 @@
 
 I have studied at [Hive Helsinki](https://www.hive.fi/en/).
 
-Currrently working as a Software Engineer at Unity.
+Currrently working as a Software Engineer at Wolt.
 
 ## Hive projects
 - [Corewar](https://github.com/rikikoo/corewar)
